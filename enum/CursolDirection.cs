@@ -1,8 +1,8 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using System.Collections;
 
 /// <summary>
-/// ƒJ[ƒ\ƒ‹‚Ì“®‚­•ûŒü
+/// ã‚«ãƒ¼ã‚½ãƒ«ã®å‹•ãæ–¹å‘
 /// </summary>
 public enum CursolDirection
 {
